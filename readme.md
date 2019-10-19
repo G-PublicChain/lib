@@ -17,3 +17,7 @@ GCC underlying protocol is applicable to all accounting systems and can accommod
 Such a simple statement does not express the power of the global smart trading centers combined with GCC, nor does it accurately describe their value.We will publish the white paper and the open source code by October 19th. Please read the white paper carefully and you will be as excited as we are.
 
 At this point, the future trend will push the global intelligent trading center and GCC protocol to the top of the world, looking forward to your participation.
+
+Download:Gcccc.cc    
+
+System code:gccgcc
